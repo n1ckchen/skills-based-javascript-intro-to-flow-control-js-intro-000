@@ -16,30 +16,27 @@ function basicTeenager(age) {
   }
 
 
-
-/* function ageChecker(age) {
+function ageChecker(age) {
   if (age >= 13 && age <= 19) {
     return 'You are a teenager!';
   } else if (age <= 12) {
     return 'You are a kid';
-  } else (age >= 20) {
+  } else {
     return 'You are a grownup';
   }
-
-
 }
- function ternaryTeenager(age) {
-  return (age >= 13 && age <= 19) ?
-    'You are not a teenager' : 'You are a teenager';
-
-}
-
- function switchAge(age) {
-  swtich(age) {
-    case (age >= 13 && age <= 19) :
-    return 'You are a teenager';
-    default:
-    return 'You have an age';
-  }
-
-} */
+// function ternaryTeenager(age) {
+//   return (age >= 13 && age <= 19) ?
+//     'You are not a teenager' : 'You are a teenager';
+//
+// }
+//
+//  function switchAge(age) {
+//   swtich(age) {
+//     case (age >= 13 && age <= 19) :
+//     return 'You are a teenager';
+//     default:
+//     return 'You have an age';
+//   }
+//
+// }
